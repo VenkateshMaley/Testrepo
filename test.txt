@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is B663-11DC
+
+ Directory of C:\Users\HI\Desktop\myproject
+
+04/16/2021  07:21 AM    <DIR>          .
+04/16/2021  07:21 AM    <DIR>          ..
+04/16/2021  07:21 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  206,870,056,960 bytes free
